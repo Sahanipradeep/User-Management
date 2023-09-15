@@ -4,6 +4,8 @@
 * Email
 * Phone No.
 * User type
-* Password
-* Age
-* D.O.B
+* addUser
+* getUser/{userid}
+* getAllUser
+* updateUserInfo
+* deleteUser
